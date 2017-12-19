@@ -15,5 +15,5 @@ notifications:
       - avdayan@bgu.ac.il
       - avivmag@post.bgu.ac.il
       - dok@post.bgu.ac.il
-    on_success: always
-    on_failure: always
+    on_success: change
+    on_failure: change
