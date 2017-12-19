@@ -1,4 +1,4 @@
-package bgu.testing.example;
+package bgu.testing.p_use;
 
 import spoon.Launcher;
 import spoon.reflect.CtModel;
