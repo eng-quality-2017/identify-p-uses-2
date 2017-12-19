@@ -13,5 +13,7 @@ notifications:
   email:
     recipients:
       - avdayan@bgu.ac.il
+      -avivmag@post.bgu.ac.ul
+      -dok@post.bgu.ac.uk
     on_success: always
     on_failure: always
