@@ -1,4 +1,4 @@
-package bgu.testing.example;
+package bgu.testing.p_use.;
 
 public class SimpleMath {
     public int multiplyBy2(int i) {

@@ -15,7 +15,7 @@ public class SpoonExample {
 
     public static void main(String[] args) {
         Launcher launcher = new Launcher();
-        launcher.addInputResource("src/main/java/bgu/testing/example/SpoonExample.java");
+        launcher.addInputResource("src/main/java/bgu/testing/p_use/SpoonExample.java");
         launcher.getEnvironment().setAutoImports(true);
         launcher.getEnvironment().setNoClasspath(true);
 

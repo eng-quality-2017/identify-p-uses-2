@@ -28,6 +28,7 @@ public class Spoon {
             System.out.println("Analyzing statement at line " + statement.getPosition().getLine());
             if(statement instanceof CtIf) {
                 CtIf ifStatement = (CtIf) statement;
+                ifStatement.getElseStatement();
                 System.out.println("If statement: " + ifStatement.getCondition());
             }
             if(statement instanceof CtLocalVariable) {
